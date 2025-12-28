@@ -18,7 +18,7 @@ This repository contains the practical assignments developed for the Functional 
 
 - **Haskell**: Functional programming with parser combinators
 - **Prolog**: Logic programming with constraint satisfaction
-- **SWI-Prolog**: Prolog implementation with `library(lists)`
+- **Sicstus**: Prolog implementation with `library(lists)`
 
 
 ## License
